@@ -22,7 +22,7 @@ const SettingsPage = async () => {
         </div>
          <SubscriptionButton  isPro={isPro}/>
          <a href="https://buy.stripe.com/test_eVag2v7Jg4uVgkU144">
-  <button>Answers by Sentry</button>
+  <button>Other Payment</button>
 </a>
 
       </div>
